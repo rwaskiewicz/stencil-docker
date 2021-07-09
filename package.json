@@ -9,7 +9,7 @@
   "types": "dist/custom-elements/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/stencil-docker-cypress/stencil-docker-cypress.esm.js",
+  "unpkg": "dist/stencil-docker-cypress/sgit statencil-docker-cypress.esm.js",
   "files": [
     "dist/",
     "loader/"
