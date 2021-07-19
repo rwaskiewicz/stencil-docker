@@ -21,7 +21,7 @@
     "test.watch": "stencil test --spec --e2e --watchAll",
     "generate": "stencil generate",
     "docker:build": " docker build -t getting-started .",
-    "docker:start": "docker run -dp 3000:3000 getting-started"
+    "docker:start": "docker run -dp 3333:3333 getting-started"
   },
   "dependencies": {
     "@stencil/core": "^2.0.1"
